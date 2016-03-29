@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="plugin_uexdevice_teststring">测试动态加载资源字符串</string>
+</resources>
